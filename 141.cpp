@@ -24,7 +24,7 @@ public:
 
         if (cur->next == nullptr){
             return false;
-        }
+        } 
 
         return true;
     }
