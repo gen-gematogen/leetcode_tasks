@@ -14,3 +14,5 @@ public:
         return nums[n];
     }
 };
+
+/* if we add static array of nums, than it works faster on multiple tests because ans is precalculated already for some of them
